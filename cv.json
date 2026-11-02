@@ -1,0 +1,1120 @@
+{
+  "profile": {
+    "name": "Raj Yadav",
+    "title": "Python Backend & Applied AI Engineer",
+    "tagline": "I build Python backends, LLM-powered automation and event-driven systems, with a finance background to match.",
+    "location": "Mumbai, India",
+    "email": "privateraj49@gmail.com",
+    "show_phone": false,
+    "date_of_birth": "08/04/2002",
+    "links": {
+      "portfolio": "https://privateraj18110.github.io/",
+      "linkedin": "",
+      "github": "https://github.com/PrivateRaj18110"
+    },
+    "summary": "MBA Tech (Finance) and Computer Engineering graduate from NMIMS Mumbai. I build end-to-end Python systems: FastAPI services, LLM-powered automation, event-driven platforms on Docker and Kubernetes, and rigorous quantitative research pipelines. Internships at Tata Capital and NTPC taught me the business side that the code serves. I build with AI coding agents (Claude Code, Codex) and own the design, review and verification of everything I ship.",
+    "open_to": [
+      "Applied / Generative AI Engineer",
+      "LLM & AI Agent Developer",
+      "Python Backend (FastAPI) Developer",
+      "AI Automation Engineer",
+      "ML / MLOps Engineer",
+      "Data Engineer"
+    ],
+    "availability": "Open to full-time roles"
+  },
+  "target_roles": [
+    "Applied AI Engineer",
+    "Generative AI Engineer",
+    "GenAI Developer",
+    "Junior GenAI Engineer",
+    "LLM Engineer",
+    "Python Backend Developer",
+    "Python Developer",
+    "Backend Software Engineer",
+    "FastAPI Developer",
+    "AI Automation Engineer",
+    "AI Solutions Engineer",
+    "AI Application Developer",
+    "Agentic AI Engineer",
+    "AI Agent Developer",
+    "AI Platform Engineer",
+    "LLM Infrastructure Engineer",
+    "MLOps Engineer",
+    "AI/ML Engineer",
+    "Junior Machine Learning Engineer",
+    "Data Engineer",
+    "Python Data Engineer",
+    "Analytics Engineer",
+    "Software Engineer – AI/ML",
+    "Full Stack AI Developer",
+    "AI Integration Engineer",
+    "RAG Engineer",
+    "NLP Engineer",
+    "Cloud Backend Engineer",
+    "AI Systems Engineer",
+    "AI Product Engineer",
+    "Associate Software Engineer"
+  ],
+  "skills": [
+    {
+      "category": "AI & Automation",
+      "items": [
+        {
+          "name": "LLM APIs"
+        },
+        {
+          "name": "RAG"
+        },
+        {
+          "name": "Open-source LLMs (Ollama)"
+        },
+        {
+          "name": "AI coding agents"
+        },
+        {
+          "name": "Prompt Engineering"
+        },
+        {
+          "name": "Playwright"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "category": "Backend & Data",
+      "items": [
+        {
+          "name": "Python"
+        },
+        {
+          "name": "FastAPI"
+        },
+        {
+          "name": "SQL"
+        },
+        {
+          "name": "PostgreSQL"
+        },
+        {
+          "name": "Redis"
+        },
+        {
+          "name": "pandas"
+        },
+        {
+          "name": "DuckDB"
+        }
+      ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "items": [
+        {
+          "name": "Docker"
+        },
+        {
+          "name": "Kubernetes"
+        },
+        {
+          "name": "AWS"
+        },
+        {
+          "name": "Google Cloud"
+        },
+        {
+          "name": "GitHub Actions"
+        },
+        {
+          "name": "Git & GitHub"
+        },
+        {
+          "name": "Prometheus & Grafana"
+        },
+        {
+          "name": "Linux"
+        }
+      ]
+    },
+    {
+      "category": "Systems & Frontend",
+      "items": [
+        {
+          "name": "C++20"
+        },
+        {
+          "name": "CMake"
+        },
+        {
+          "name": "React"
+        },
+        {
+          "name": "TypeScript"
+        }
+      ]
+    },
+    {
+      "category": "Finance & Business",
+      "items": [
+        {
+          "name": "Advanced Excel & Pivot Tables"
+        },
+        {
+          "name": "Power BI"
+        },
+        {
+          "name": "ERP (Oracle Fusion, SAP)"
+        },
+        {
+          "name": "Power Apps & Power Automate"
+        },
+        {
+          "name": "Budgeting & Forecasting"
+        },
+        {
+          "name": "Market Research"
+        }
+      ]
+    }
+  ],
+  "how_i_build": {
+    "title": "How I build",
+    "intro": "I build with AI coding agents. I decide what to build and how it should work, the agents write most of the code, and nothing ships until I have reviewed it and tests, evaluations or audits back it up.",
+    "steps": [
+      {
+        "label": "Design",
+        "detail": "I set the architecture, the data flow and the rules the code must follow, and write them down as specs and project rules the agents work from."
+      },
+      {
+        "label": "Direct the agents",
+        "detail": "Claude Code and Codex write and refactor most of the code, one scoped task at a time. Changes to live trading code need my explicit approval."
+      },
+      {
+        "label": "Verify",
+        "detail": "I check every change before I trust it: unit tests, a differential oracle against a reference implementation, evaluation sets and read-only audits of the live system."
+      },
+      {
+        "label": "Measure honestly",
+        "detail": "I publish what the measurements show, failures included: code counts on this site exclude copies and snapshots, and the Research Copilot page lists its wrong answers."
+      },
+      {
+        "label": "Keep private data local",
+        "detail": "For private documents I run open-source models on my own laptop through Ollama, so nothing leaves the machine."
+      }
+    ],
+    "tools": [
+      "Claude Code",
+      "Codex",
+      "Ollama"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Algo Matrics Platform",
+      "category": "Backend & Cloud",
+      "featured": true,
+      "summary": "Multi-tenant algorithmic trading platform: strategies, brokers, risk controls, billing, real-time P&L and a full operations stack in one console.",
+      "tech": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Google Cloud",
+        "Prometheus & Grafana",
+        "GitHub Actions",
+        "React",
+        "TypeScript",
+        "LLM APIs",
+        "AI coding agents"
+      ],
+      "highlights": [
+        "SaaS core: plans and billing through Razorpay / Stripe with GST, broker connections (Zerodha, Angel One, Flattrade, paper trading), risk limits and kill switches.",
+        "Strategy SDK with sandboxed uploads, semantic versioning, an approval workflow, and backtesting with bar replay, Monte Carlo and walk-forward.",
+        "Clean Architecture / DDD monorepo with 152 commits, deployable with one Docker Compose command or on Kubernetes."
+      ],
+      "architecture": [
+        {
+          "layer": "API",
+          "detail": "FastAPI control plane (/api/v1) with JWT and rotating refresh tokens, RBAC, TOTP MFA, RFC 9457 errors and OWASP security headers."
+        },
+        {
+          "layer": "Runtimes",
+          "detail": "Independent trading engine, market-data, worker and scheduler processes coordinated over Redis Streams (consumer groups, dead-letter queue, inbox dedupe)."
+        },
+        {
+          "layer": "Data",
+          "detail": "PostgreSQL with async SQLAlchemy and Alembic migrations, Redis, a read-only DuckDB market-intelligence store, and a SHA-256 hash-chained audit log."
+        },
+        {
+          "layer": "Frontend",
+          "detail": "React + TypeScript operations console (Vite, Tailwind 4, TanStack Query) with live P&L, orders and positions over WebSocket."
+        },
+        {
+          "layer": "AI",
+          "detail": "Claude provider abstraction powering an in-app assistant and strategy explanations, plus an AI-CIO market-regime and ranking overlay."
+        },
+        {
+          "layer": "Cloud",
+          "detail": "Multi-cloud: runs across AWS and Google Cloud VMs, with Kubernetes manifests (KEDA / HPA autoscaling), pluggable secrets (env, AWS Secrets Manager, Fernet) and a VPS agent with mTLS for venue-side brokers."
+        },
+        {
+          "layer": "Ops",
+          "detail": "Prometheus, Grafana, Loki and Alertmanager; circuit breakers, deep readiness probes and GitHub Actions CI."
+        }
+      ],
+      "links": {
+        "live": "https://algomatrics.in",
+        "github": "",
+        "demo": ""
+      },
+      "slug": "algo-matrics",
+      "code_note": "Private repository. Code walkthrough available on request.",
+      "overview": [
+        "Algo Matrics is a multi-tenant platform for systematic trading on Indian equity and derivatives markets. A trader connects a broker, builds or uploads a strategy, versions and approves it, backtests it, then deploys it and watches live P&L, orders and positions stream in.",
+        "Risk limits and kill switches are enforced on the server, not in the browser. The public site is live at algomatrics.in, and console access is by invitation."
+      ],
+      "gallery": [
+        {
+          "src": "assets/projects/algo-matrics/console-heatmap.webp",
+          "caption": "Console, F&O heatmap: all 218 NSE F&O stocks grouped by sector, sized by market cap and coloured by % change."
+        },
+        {
+          "src": "assets/projects/algo-matrics/console-market-intelligence.webp",
+          "caption": "Console, Market Intelligence: AI-CIO ranks which F&O stocks are likely to make a major move, and every forecast is graded against the close."
+        },
+        {
+          "src": "assets/projects/algo-matrics/site-home.webp",
+          "caption": "algomatrics.in: the live public site and what the platform covers."
+        },
+        {
+          "src": "assets/projects/algo-matrics/console-sign-in.webp",
+          "caption": "Console sign-in: invite-only access with short-lived session tokens, and paper trading kept separate from live."
+        },
+        {
+          "src": "assets/projects/algo-matrics/site-engineering.webp",
+          "caption": "Engineering principles on the live site: fail closed, audited, least privilege."
+        }
+      ],
+      "decisions": [
+        "Modular monolith (Clean Architecture / DDD) plus independent runtimes that talk over a Redis Streams event bus with consumer groups, a dead-letter queue and inbox deduplication.",
+        "Fail closed: readiness probes return 503 when a dependency degrades, circuit breakers isolate brokers, and kill switches stop trading at the server.",
+        "Tamper-evident audit: operator actions go into an append-only, SHA-256 hash-chained log.",
+        "Least privilege: secrets come from pluggable backends (env, AWS Secrets Manager, Fernet), and a VPS agent with a rotatable mTLS identity runs venue-side brokers without accepting arbitrary commands."
+      ],
+      "results": [
+        "Live public site at algomatrics.in.",
+        "Runs across AWS and Google Cloud VMs, with one-command Docker Compose bring-up and Kubernetes manifests with KEDA / HPA autoscaling.",
+        "152 commits and 95 Python test files, with GitHub Actions CI for backend, integration, frontend, ops and container images."
+      ],
+      "diagrams": [
+        {
+          "title": "Live data path: Google Cloud → AWS",
+          "caption": "How monitoring data from the paper-trading runtime on Google Cloud VM1 reaches the console on algomatrics.in.",
+          "style": "flow",
+          "steps": [
+            {
+              "layer": "VM1 data agent",
+              "detail": "raj-agent.service on Google Cloud packages strategy, execution and health telemetry from the LIVE runtime."
+            },
+            {
+              "layer": "HTTPS batch",
+              "detail": "POST /ops/api/agent/batch with TLS verification on, compact sorted JSON and no redirects."
+            },
+            {
+              "layer": "Edge nginx",
+              "detail": "TLS on 443 on the AWS host, proxied to the container nginx."
+            },
+            {
+              "layer": "Ops receiver",
+              "detail": "FastAPI ops-api validates the contract, deduplicates and stores each batch."
+            },
+            {
+              "layer": "Console",
+              "detail": "System Health, LIVE monitoring and VM1 views, scoped to sources the viewer owns."
+            }
+          ]
+        }
+      ],
+      "proof": {
+        "evidence": [
+          "Test report (11 Sep 2026): 330 ops-backend, 440 platform-backend and 118 frontend tests passed, with typecheck and lint clean; 2 known backend failures are documented, not hidden.",
+          "AI-CIO backtest (19 Sep 2026): the opening forecast's top-10 hit rate was 27.8% against an 8.2% base rate (3.4× lift), with the direction right on 91% of real movers.",
+          "Operations, audit and validation reports live in the repository, including a performance report that states plainly what has not been measured yet.",
+          "Live product at algomatrics.in; the console screens above were captured from the running system."
+        ],
+        "measured_on": "02 Nov 2026",
+        "stats": {
+          "commits": 152,
+          "total_code_lines": 199859,
+          "test_files": 219,
+          "markdown_docs": 192,
+          "lines_by_language": {
+            "Python": 132823,
+            "TypeScript": 62740,
+            "YAML": 2212,
+            "Shell": 1306,
+            "CSS": 493,
+            "HTML": 229,
+            "JavaScript": 56
+          },
+          "first_commit": "2026-07-08",
+          "last_commit": "2026-10-26",
+          "commits_by_month": {
+            "2026-07": 90,
+            "2026-08": 23,
+            "2026-09": 14,
+            "2026-10": 25
+          }
+        }
+      }
+    },
+    {
+      "name": "Research Copilot (RAG + open-source LLM)",
+      "slug": "research-copilot",
+      "category": "AI & Automation",
+      "featured": true,
+      "summary": "Retrieval-augmented generation over 299 of my own project documents, answered by Qwen2.5 running locally with Ollama, with every answer sentence checked against its source.",
+      "tech": [
+        "RAG",
+        "Open-source LLMs (Ollama)",
+        "Python",
+        "Prompt Engineering",
+        "Qwen2.5",
+        "nomic-embed-text",
+        "BM25",
+        "NumPy",
+        "FastAPI",
+        "AI coding agents"
+      ],
+      "highlights": [
+        "Hybrid retrieval (BM25 + 768-dimensional dense embeddings, fused with reciprocal rank fusion) over 5,126 heading-aware chunks.",
+        "Measured on a labelled question set: retrieval hit@5 100%, MRR 0.708, and 2/2 out-of-scope questions correctly refused.",
+        "Grounding check: each answer sentence is cited to the passage it came from, and sentences no passage supports are flagged; on average 92% of an answer's sentences were grounded, and both sentences it flagged in the evaluation were genuinely unsupported.",
+        "Runs fully offline on a 4-core laptop CPU: no data leaves the machine, and secrets are redacted before indexing."
+      ],
+      "architecture": [
+        {
+          "layer": "Ingest",
+          "detail": "299 markdown docs from Algo Matrics, the research lab, RQIE and LLS; agent files, .env and confidential PDFs excluded."
+        },
+        {
+          "layer": "Redact",
+          "detail": "API keys, passwords, tokens and long hex secrets replaced with [redacted] before anything is stored."
+        },
+        {
+          "layer": "Chunk",
+          "detail": "Split at markdown headings into ~1,200-character chunks with overlap, keeping the heading path (5,126 chunks)."
+        },
+        {
+          "layer": "Embed",
+          "detail": "nomic-embed-text through Ollama with search_document / search_query prefixes; vectors normalised and saved with NumPy."
+        },
+        {
+          "layer": "Retrieve",
+          "detail": "BM25 and cosine similarity each rank 30 candidates; reciprocal rank fusion picks the top 5 passages."
+        },
+        {
+          "layer": "Generate",
+          "detail": "Qwen2.5 1.5B answers only from the numbered passages, reusing their wording, and says when the documents do not cover a question."
+        },
+        {
+          "layer": "Ground",
+          "detail": "Each answer sentence is matched to the passage that shares most of its words: cited if at least half its content words appear there, flagged as unsupported if not."
+        },
+        {
+          "layer": "Evaluate",
+          "detail": "Labelled questions score retrieval hit rate, MRR, expected facts, grounded sentences and refusals; results feed this page."
+        }
+      ],
+      "diagram": "flow",
+      "links": {
+        "github": "",
+        "live": "",
+        "demo": ""
+      },
+      "overview": [
+        "Research Copilot answers questions about my own engineering and research work. It retrieves the most relevant passages from the documentation of Algo Matrics, my intraday research lab, RQIE and LLS, then asks an open-source LLM to answer using only those passages. A grounding check then cites the source of each sentence and flags any sentence the sources do not support.",
+        "Everything runs locally through Ollama on a laptop CPU, so private documents never leave the machine. An evaluation harness measures retrieval and answer quality on labelled questions, including questions it should refuse."
+      ],
+      "decisions": [
+        "Hybrid retrieval instead of dense-only: BM25 catches exact names like endpoint paths and strategy IDs, embeddings catch paraphrases, and reciprocal rank fusion combines them without tuning weights.",
+        "Grounding over fluency: the prompt forbids outside knowledge and the model must say when the documents do not cover a question.",
+        "Computed citations instead of model-written ones: asking the 1.5B model to write [n] citations gave either none or padded answers that stopped refusing off-topic questions, so citations come from sentence-to-passage word overlap, which also catches invented sentences.",
+        "Known limit, stated openly: the check proves a sentence came from a retrieved source, not that the source is current. One evaluation answer quoted an older test report (330 tests) instead of the newer one (340).",
+        "Small open model, measured honestly: Qwen2.5 1.5B fits a CPU-only machine; the evaluation reports its speed and accuracy instead of assuming them.",
+        "Privacy first: indexing redacts secrets and skips agent memory files, .env files and confidential PDFs; the index stays out of git."
+      ],
+      "results": [
+        "Retrieval: hit@1 50%, hit@5 100%, MRR 0.708 on 10 in-scope questions.",
+        "Answers: 64% of expected facts present, on average 92% of each answer's sentences grounded in a passage, 2/2 out-of-scope questions refused, 0 in-scope questions wrongly refused.",
+        "Speed: median 38.5 s per answer on an Intel N95 CPU; the 5,126-chunk index was embedded in about 2 hours 20 minutes."
+      ],
+      "gallery": [
+        {
+          "src": "assets/projects/research-copilot/copilot-answer.webp",
+          "caption": "An answer with a citation for each sentence, the grounding check, and the retrieved passages with their BM25, cosine and fusion scores."
+        },
+        {
+          "src": "assets/projects/research-copilot/copilot-flagged.webp",
+          "caption": "The grounding check catching a mistake: the model claimed VM2 forwards data to algomatrics.in (VM2 is algomatrics.in), and no passage supports it, so it is flagged."
+        },
+        {
+          "src": "assets/projects/research-copilot/copilot-refusal.webp",
+          "caption": "An out-of-scope question correctly refused instead of guessed."
+        }
+      ],
+      "proof": {
+        "evidence": [
+          "Index manifest: 299 documents, 5,126 chunks, 0 skipped, 768-dimensional vectors.",
+          "Per-question evaluation scores for all 12 labelled questions, including 2 it must refuse, are recorded by the evaluation harness.",
+          "Offline test suite: 5 of 5 passing with a fake LLM, covering redaction, chunking, BM25 and fusion, hybrid search and grounded answers."
+        ],
+        "measured_on": "02 Nov 2026",
+        "stats": {
+          "total_code_lines": 786,
+          "test_files": 1,
+          "lines_by_language": {
+            "Python": 786
+          }
+        }
+      },
+      "code_note": "Private repository. Code walkthrough available on request."
+    },
+    {
+      "name": "StudyPilot",
+      "slug": "studypilot",
+      "category": "Full-Stack Web",
+      "summary": "Learning website for Class 7 students: short lessons, practice with hints, unit tests and timed practice papers. Live as a prototype.",
+      "tech": [
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "Supabase",
+        "Vite",
+        "Tailwind CSS",
+        "PWA",
+        "AI coding agents"
+      ],
+      "highlights": [
+        "Follows 9 school textbooks across 7 subjects: 256 topics, 219 lessons and 1,232 practice questions, all marked as drafts until a teacher reviews them.",
+        "Timed practice papers that save every answer, resume after a refresh and submit exactly once at the deadline.",
+        "Offline-first PWA: finished work goes into a durable IndexedDB outbox with idempotency keys."
+      ],
+      "architecture": [
+        {
+          "layer": "Frontend",
+          "detail": "React + TypeScript single-page app built with Vite and Tailwind, with KaTeX maths in Markdown lessons."
+        },
+        {
+          "layer": "Learning rules",
+          "detail": "Pure, tested modules for answer checking, grading, mastery and exam attempts."
+        },
+        {
+          "layer": "Offline",
+          "detail": "PWA with an IndexedDB outbox and idempotency keys, so work is never lost or submitted twice."
+        },
+        {
+          "layer": "Backend",
+          "detail": "Supabase (PostgreSQL) with version-controlled migrations, row-level security and server-side grading."
+        },
+        {
+          "layer": "Hosting",
+          "detail": "Cloudflare Pages for the student site and a separate admin site."
+        }
+      ],
+      "links": {
+        "live": "https://studypilot-biw.pages.dev",
+        "github": "",
+        "demo": ""
+      },
+      "code_note": "Private repository. Code walkthrough available on request.",
+      "overview": [
+        "StudyPilot is a student-first learning website for Class 7 that follows the textbooks the school uses. Students read short lessons, practise questions with hints, take chapter unit tests and timed practice papers, and see what to revise next.",
+        "It is live as a prototype: sign-up and email verification work, and every lesson is clearly labelled as a draft until a teacher reviews it."
+      ],
+      "gallery": [
+        {
+          "src": "assets/projects/studypilot/home.webp",
+          "caption": "Live site: 9 textbooks, 256 topics and 1,232 practice questions, clearly marked as a prototype."
+        }
+      ],
+      "decisions": [
+        "Honest by design: every lesson shows its review status, simulated features are labelled, and the rule-based Study Buddy says it is not an AI model.",
+        "Grading runs on the server, and the database is protected with row-level security policies.",
+        "Mastery counts only answers right the first time without hints, so progress reflects real understanding."
+      ],
+      "results": [
+        "Live at studypilot-biw.pages.dev with working sign-up and email verification.",
+        "Test suite for logic, components, content integrity and database security, run before every commit."
+      ],
+      "featured": true,
+      "proof": {
+        "evidence": [
+          "Live site with working sign-up and email verification, deployed on Cloudflare Pages.",
+          "Test suite covers grading logic, components, content integrity and database security."
+        ],
+        "measured_on": "02 Nov 2026",
+        "stats": {
+          "commits": 37,
+          "total_code_lines": 29855,
+          "test_files": 29,
+          "markdown_docs": 21,
+          "lines_by_language": {
+            "TypeScript": 22761,
+            "SQL": 6754,
+            "CSS": 184,
+            "HTML": 104,
+            "JavaScript": 52
+          },
+          "first_commit": "2026-10-22",
+          "last_commit": "2026-10-31",
+          "commits_by_month": {
+            "2026-10": 37
+          }
+        }
+      }
+    },
+    {
+      "name": "NIFTY / SENSEX Intraday Research Lab",
+      "category": "Quant Research",
+      "featured": true,
+      "summary": "Research workspace for intraday NIFTY / SENSEX trading: candle engines, feature and event discovery, walk-forward model tests and a paper-trading runtime.",
+      "tech": [
+        "Python",
+        "pandas",
+        "Machine Learning",
+        "Linux",
+        "AI coding agents"
+      ],
+      "highlights": [
+        "Confidence-driven entry / exit research with walk-forward out-of-sample reporting, random baselines and cost sweeps.",
+        "Feature, event and edge discovery engines with FDR and Holm multiple-testing control.",
+        "Paper-trading runtime on a Linux server with a safety preflight before broker login."
+      ],
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "slug": "intraday-research",
+      "code_note": "Private repository. Code walkthrough available on request.",
+      "overview": [
+        "A research workspace for intraday NIFTY and SENSEX trading. It rebuilds 30-second and 1-minute candles from raw ticks, engineers indicator features, and tests ideas with walk-forward, out-of-sample validation and explicit trading costs.",
+        "Negative results are reported plainly: most ideas fail once costs and multiple testing are accounted for, and the dashboards below show that."
+      ],
+      "architecture": [
+        {
+          "layer": "Data",
+          "detail": "Tick-to-candle reconstruction for 30s / 1m / 2m bars with schema, timestamp and sequence-gap guards."
+        },
+        {
+          "layer": "Features",
+          "detail": "Signed indicator votes, DI–TEMA crossover descriptors and 1,705 engineered features."
+        },
+        {
+          "layer": "Discovery",
+          "detail": "Feature, event and edge discovery engines with FDR / Holm correction and session bootstraps."
+        },
+        {
+          "layer": "Validation",
+          "detail": "Walk-forward and leave-one-day-out tests with random baselines and cost sweeps."
+        },
+        {
+          "layer": "Runtime",
+          "detail": "Paper-trading runtime on a Linux server with engine-health and latency monitoring."
+        }
+      ],
+      "gallery": [
+        {
+          "src": "assets/projects/intraday-research/phase3_dashboard.webp",
+          "caption": "Phase 3 alpha discovery: 1,705 features over 285 symbol-days, with walk-forward results net of a 5 bps option cost."
+        },
+        {
+          "src": "assets/projects/intraday-research/event_discovery_dashboard.webp",
+          "caption": "Event discovery: 30 candidate events tested out of sample with Holm correction and bootstrap intervals."
+        },
+        {
+          "src": "assets/projects/intraday-research/entry-model-comparison.webp",
+          "caption": "Entry models compared with leave-one-day-out walk-forward tests and a 1-point round-trip cost."
+        },
+        {
+          "src": "assets/projects/intraday-research/feature-redundancy-map.webp",
+          "caption": "Spearman redundancy map showing which top features describe the same motion."
+        },
+        {
+          "src": "assets/projects/intraday-research/edge-calibration.webp",
+          "caption": "Out-of-sample edge-score calibration on 11 unseen sessions."
+        }
+      ],
+      "decisions": [
+        "No-lookahead law: a decision at a bar uses only data up to that bar's close, enforced by asserts in the backtester.",
+        "Multiple-testing discipline: FDR and Holm corrections, session bootstraps and threshold perturbation before any result counts.",
+        "Costs first: every result is reported net of an explicit round-trip hurdle."
+      ],
+      "results": [
+        "Phase 3: 1,104 of 1,705 features passed FDR and stability filters, but the best out-of-sample result was −3.98 bps after costs, so no strategy was promoted.",
+        "Event discovery: 0 of 30 candidate events survived Holm-corrected validation on 11 out-of-sample sessions."
+      ],
+      "proof": {
+        "evidence": [
+          "330,000+ lines of code in 1,458 files, built with AI coding agents under my direction and counted strictly: exact copies, backups, before/after snapshots, incident copies, bundled third-party libraries and virtual environments excluded, and one version of each file name kept.",
+          "Every chart and dashboard on this page was generated by the research engines in the repository.",
+          "Live-runtime incidents are investigated read-only on the Google Cloud VM, with an evidence manifest and SHA-256-hashed sources for every finding."
+        ],
+        "measured_on": "02 Nov 2026",
+        "stats": {
+          "total_code_lines": 333398,
+          "test_files": 355,
+          "lines_by_language": {
+            "Python": 320334,
+            "C++": 11722,
+            "PowerShell": 600,
+            "Shell": 581,
+            "SQL": 161
+          }
+        }
+      },
+      "outcome": [
+        "The strategies stayed on paper. The strongest one, an intraday mean-reversion strategy on in-the-money options, netted +₹15 per trade after costs, less than one price tick (₹25), and turned negative with just 500 ms of delay against a measured 733 ms from signal to fill. Its deployment review was NO-GO, and the research recommended committing no capital.",
+        "Rising costs and thin liquidity left no room for an edge that small: STT on option sales rose from 0.10% to 0.15% of premium in April 2026, statutory charges alone came to about 0.24% per trade, and stock options traded at a typical bid-ask spread of about 1.25% (both measured in RQIE).",
+        "So I stopped at paper trading. The skills carry over: real-time data pipelines, cloud systems and evaluation that refuses to fool itself now go into AI and backend engineering."
+      ]
+    },
+    {
+      "name": "LLS: Low-Latency Trading Infrastructure",
+      "category": "Low-Latency Systems",
+      "featured": false,
+      "summary": "C++20 platform for market-data ingestion, incremental feature computation, ML inference and risk / execution infrastructure.",
+      "tech": [
+        "C++20",
+        "CMake",
+        "Python",
+        "Machine Learning",
+        "AI coding agents"
+      ],
+      "highlights": [
+        "Lock-free SPSC ring-buffer pipeline from feed to a preallocated market-state engine with zero-copy snapshots.",
+        "C++ ML stack: purged walk-forward splits, leakage detection, tree ensembles, TCN / CNN1D models, calibration and a zero-allocation inference engine.",
+        "Differential oracle proving the C++ port reproduces a legacy Python strategy exactly; 214 C++ source files and 98 test files."
+      ],
+      "architecture": [
+        {
+          "layer": "Core",
+          "detail": "Status / error types, strong IDs, structured logging, typed config, SPSC ring buffer, JSONL sinks, SHA-256."
+        },
+        {
+          "layer": "Market",
+          "detail": "Vendor-neutral instrument master, option-chain indexes and a multi-instrument market-state engine with freshness checks."
+        },
+        {
+          "layer": "Feed",
+          "detail": "Gated TrueData WebSocket transport, fixture replay, normalization and raw capture recording (market data only)."
+        },
+        {
+          "layer": "ML",
+          "detail": "Dataset construction, labelling, model registry, drift / shadow / replay validation and the inference runtime."
+        },
+        {
+          "layer": "Execution",
+          "detail": "Intent validation, risk gate, sizing, order state machine and reconciliation against a deterministic mock broker; real orders are disabled by design."
+        }
+      ],
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "slug": "lls",
+      "code_note": "Private repository. Code walkthrough available on request.",
+      "overview": [
+        "A C++20 trading research and infrastructure platform built for deterministic, low-latency processing. It ingests market data, keeps a preallocated multi-instrument market state, computes features incrementally, runs ML inference without heap allocation, and has a complete risk and order-management architecture tested against a mock broker.",
+        "Real-money order routing is deliberately not implemented."
+      ],
+      "decisions": [
+        "Lock-free SPSC ring buffers and preallocated state so the hot path never blocks or allocates.",
+        "Differential oracle: the C++ port of a legacy Python strategy is checked against the original, with reference parameters pinned by SHA-256 so the comparison cannot drift.",
+        "Safety by construction: the broker boundary is an inert placeholder, and live trading cannot be armed by configuration.",
+        "Leakage-aware ML: purged walk-forward splits and explicit leakage detection before any model is trusted."
+      ],
+      "results": [
+        "214 C++ source files and 98 test files across unit, contract, failure, replay, performance and regression suites.",
+        "ASan / UBSan sanitizer builds and the full acceptance matrix certified on the reference host, with each phase documented in its own report."
+      ],
+      "diagrams": [
+        {
+          "title": "ML model architecture",
+          "caption": "From the LLS ML implementation blueprint (v2.0). Encoders are trained on training folds only, so validation embeddings never leak; TCN / CNN1D encoders, fusion, tree ensembles and calibration are implemented in C++.",
+          "style": "flow",
+          "steps": [
+            {
+              "layer": "Tick encoder",
+              "detail": "Micro-CNN learns intra-candle indicator trajectories from tick-level data."
+            },
+            {
+              "layer": "Timeframe encoders",
+              "detail": "Five TCNs (dilations 1, 2, 4, 8) turn each timeframe's candle window into a 64-dimensional embedding."
+            },
+            {
+              "layer": "Fusion",
+              "detail": "Transformer cross-attention fuses all timeframes into one market-state context."
+            },
+            {
+              "layer": "Signal heads",
+              "detail": "LightGBM heads trained on frozen out-of-sample embeddings, then calibrated."
+            },
+            {
+              "layer": "Regime",
+              "detail": "HMM regime model adds market-state information."
+            },
+            {
+              "layer": "Position control",
+              "detail": "PPO reinforcement learning sizes and manages the position."
+            },
+            {
+              "layer": "Risk gate",
+              "detail": "A hard risk gate has the final say before any order intent."
+            }
+          ]
+        }
+      ],
+      "proof": {
+        "evidence": [
+          "Per-phase completion and acceptance reports, including one gate that is honestly recorded as still open.",
+          "A black-box forensic journal and monitoring.v1 contract shared with Algo Matrics, validated with fixture packages.",
+          "Two design documents (system report, ML blueprint v2.0) define the model architecture shown above."
+        ],
+        "measured_on": "02 Nov 2026",
+        "stats": {
+          "commits": 19,
+          "total_code_lines": 58659,
+          "test_files": 147,
+          "markdown_docs": 49,
+          "lines_by_language": {
+            "C++": 47210,
+            "Python": 11053,
+            "Shell": 306,
+            "PowerShell": 90
+          },
+          "first_commit": "2026-09-04",
+          "last_commit": "2026-09-05",
+          "commits_by_month": {
+            "2026-09": 19
+          }
+        }
+      }
+    },
+    {
+      "name": "RQIE: Quant Intelligence Engine",
+      "category": "Quant Research",
+      "featured": false,
+      "summary": "Offline research engine with pre-registered experiments and a verified data store for NSE stock and option captures.",
+      "tech": [
+        "Python",
+        "pandas",
+        "DuckDB",
+        "Machine Learning",
+        "AI coding agents"
+      ],
+      "highlights": [
+        "Pre-registered experiments on option-quote imbalance across 27 sessions, reporting a consistent but economically negligible effect honestly.",
+        "Gated data build with per-session verification and an independent DuckDB store audit.",
+        "Execution-economics attribution with a versioned cost model and delay stress tests; read-only by design with no broker capability."
+      ],
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "slug": "rqie",
+      "code_note": "Private repository. Code walkthrough available on request.",
+      "overview": [
+        "RQIE (Raj Quant Intelligence Engine) is an offline research engine for NSE stock and option data. It turns raw captures into a verified data store, runs pre-registered experiments, and reports what the data actually supports, including when the answer is that there is no edge.",
+        "It has no broker or order capability, and that is enforced by tests."
+      ],
+      "architecture": [
+        {
+          "layer": "Data build",
+          "detail": "Gated canonical build from raw captures with per-session verification and benchmarks."
+        },
+        {
+          "layer": "Store audit",
+          "detail": "Partitioned store checked independently with DuckDB: row counts, sizes, ordering and orphan files."
+        },
+        {
+          "layer": "Experiments",
+          "detail": "Pre-registered hypotheses with frozen specifications and a separate confirmation stage."
+        },
+        {
+          "layer": "Economics",
+          "detail": "Execution-economics attribution with a versioned cost model and delay stress tests."
+        },
+        {
+          "layer": "Ledger",
+          "detail": "Owner decisions and approvals recorded in a research ledger."
+        }
+      ],
+      "decisions": [
+        "Pre-registration: hypotheses, horizons and the smallest effect of interest are fixed before new data is examined.",
+        "The cost model never defaults brokerage; results are reported net of explicit costs and latency.",
+        "Read-only by design: it reads historical data and writes only inside its own folder."
+      ],
+      "results": [
+        "Across 27 sessions, option-quote imbalance carried consistent but economically negligible information, so no executable edge was claimed.",
+        "Two quote-reversal features passed discovery but did not survive cost and delay stress; they await a frozen confirmation on new data."
+      ],
+      "proof": {
+        "evidence": [
+          "Workspace transfer verified file by file: all 834 files SHA-256 checked.",
+          "Phase status reports record each experiment's specification before results, and the negative findings."
+        ],
+        "measured_on": "02 Nov 2026",
+        "stats": {
+          "commits": 0,
+          "total_code_lines": 23230,
+          "test_files": 52,
+          "markdown_docs": 49,
+          "lines_by_language": {
+            "Python": 20082,
+            "YAML": 2722,
+            "SQL": 426
+          },
+          "first_commit": "",
+          "last_commit": "",
+          "commits_by_month": {}
+        }
+      },
+      "outcome": [
+        "No edge survived realistic trading conditions. Profits turned negative after 2 seconds of delay (5 seconds in one case), and the brokerage at which trades would break even was negative at every delay, so with one lot per trade no fee level could make them pay.",
+        "Statutory charges came to about 0.24% per trade, mostly STT, which rose from 0.10% to 0.15% of option premium in April 2026, and stock options traded at a typical bid-ask spread of about 1.25%. Because the thresholds were fixed in advance, the engine reported this result instead of searching for settings that looked profitable."
+      ]
+    },
+    {
+      "name": "Audio / Visual Summarization",
+      "category": "AI & Automation",
+      "featured": false,
+      "summary": "Summarizes audio and video content to make information retrieval faster.",
+      "tech": [],
+      "highlights": [
+        "Won third place at the Saavishankar competition, 2024."
+      ],
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "slug": "audio-visual-summarization"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tata Capital Housing Finance (TCHFL)",
+      "role": "Management Intern",
+      "start": "May 2024",
+      "end": "Jul 2024",
+      "location": "",
+      "highlights": [
+        "Automated MIS reports and built dashboards for senior management.",
+        "Audited P&L statements from GL files in Excel and analyzed key financial performance metrics and trends.",
+        "Benchmarked data against competitors and helped develop a CAPAD calculator to estimate total money saved on loans over the loan period."
+      ]
+    },
+    {
+      "company": "NTPC Ltd.",
+      "role": "Technical Intern",
+      "start": "May 2023",
+      "end": "Jul 2023",
+      "location": "",
+      "highlights": [
+        "Analyzed energy trade patterns in Power BI and SAP to evaluate a potential demerger of the renewable and coal businesses.",
+        "Contributed to the team's final report, after which the demerger idea was dropped."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "MPSTME, NMIMS Mumbai",
+      "degree": "MBA Tech: B.Tech Computer Engineering + MBA (Finance major, Business Intelligence & Analytics minor)",
+      "year": "2025",
+      "score": "CGPA 2.65 / 4",
+      "details": ""
+    }
+  ],
+  "certifications": [
+    "Trading Algorithms, Indian School of Business (Coursera)",
+    "Advanced Trading Algorithms, Indian School of Business (Coursera)",
+    "Investment and Portfolio Management, Rice University",
+    "Crash Course on Python, Google",
+    "Learn Python 3, Codecademy"
+  ],
+  "achievements": [
+    "Winner, Smart India Hackathon 2022",
+    "Finalist, Startup India: India's Social Impact Champion 2023",
+    "Third place, audio/video summarization, Saavishankar competition 2024"
+  ],
+  "interests": [
+    "Chess",
+    "Reading",
+    "Cycling"
+  ],
+  "system_map": {
+    "title": "How my projects connect",
+    "intro": "Research picks the strategies, a paper-trading runtime on Google Cloud runs them on live market data, and Algo Matrics on AWS monitors it and adds AI on top. LLS re-implements the strategy in C++ and is checked against the Python original so mistakes do not slip in. Research Copilot indexes the documentation of all of them and answers questions with citations.",
+    "width": 1130,
+    "height": 680,
+    "lanes": [
+      {
+        "x": 20,
+        "label": "Research"
+      },
+      {
+        "x": 320,
+        "label": "Live trading · Google Cloud"
+      },
+      {
+        "x": 620,
+        "label": "Platform · AWS"
+      },
+      {
+        "x": 900,
+        "label": "Intelligence"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "lab",
+        "label": "Intraday Research Lab",
+        "sub": "Feature, event and edge discovery with walk-forward, cost-aware validation",
+        "x": 20,
+        "y": 50,
+        "slug": "intraday-research",
+        "kind": "research"
+      },
+      {
+        "id": "rqie",
+        "label": "RQIE",
+        "sub": "Pre-registered experiments and BM25 search over past findings",
+        "x": 20,
+        "y": 330,
+        "slug": "rqie",
+        "kind": "research"
+      },
+      {
+        "id": "live",
+        "label": "LIVE paper runtime",
+        "sub": "Google Cloud VM1 · FlatTrade feed via native C++ · H30-X2, S2, S3 on 12 stocks",
+        "x": 320,
+        "y": 50,
+        "slug": "intraday-research",
+        "kind": "live"
+      },
+      {
+        "id": "lls",
+        "label": "LLS (C++20)",
+        "sub": "Strategy port checked by a differential oracle; TCN + Transformer model stack",
+        "x": 320,
+        "y": 330,
+        "slug": "lls",
+        "kind": "live"
+      },
+      {
+        "id": "algo",
+        "label": "Algo Matrics",
+        "sub": "algomatrics.in on AWS · ops receiver, console, risk controls",
+        "x": 620,
+        "y": 190,
+        "slug": "algo-matrics",
+        "kind": "platform"
+      },
+      {
+        "id": "assistant",
+        "label": "AI assistant",
+        "sub": "Claude via a pluggable provider; answers only from figures in the given context",
+        "x": 900,
+        "y": 50,
+        "slug": "algo-matrics",
+        "kind": "ai"
+      },
+      {
+        "id": "aicio",
+        "label": "AI-CIO movers radar",
+        "sub": "Forecasts major F&O moves and refits on every graded session",
+        "x": 900,
+        "y": 260,
+        "slug": "algo-matrics",
+        "kind": "ai"
+      },
+      {
+        "id": "nse",
+        "label": "NSE & news feeds",
+        "sub": "Filings, pre-open auction, open interest, headlines",
+        "x": 900,
+        "y": 440,
+        "kind": "external"
+      },
+      {
+        "id": "copilot",
+        "label": "Research Copilot (RAG)",
+        "sub": "Cited answers over 299 docs from all four projects · Qwen2.5 on Ollama, offline",
+        "x": 20,
+        "y": 520,
+        "slug": "research-copilot",
+        "kind": "ai"
+      }
+    ],
+    "edges": [
+      {
+        "from": "rqie",
+        "to": "lab",
+        "label": "findings"
+      },
+      {
+        "from": "lab",
+        "to": "live",
+        "label": "strategies"
+      },
+      {
+        "from": "lab",
+        "to": "lls",
+        "label": "Python reference"
+      },
+      {
+        "from": "live",
+        "to": "algo",
+        "label": "monitoring batches (HTTPS)"
+      },
+      {
+        "from": "lls",
+        "to": "algo",
+        "label": "monitoring.v1 export"
+      },
+      {
+        "from": "algo",
+        "to": "assistant",
+        "label": "live context"
+      },
+      {
+        "from": "nse",
+        "to": "aicio",
+        "label": "public data"
+      },
+      {
+        "from": "aicio",
+        "to": "algo",
+        "label": "forecasts"
+      },
+      {
+        "from": "rqie",
+        "to": "copilot",
+        "label": "docs"
+      },
+      {
+        "from": "lls",
+        "to": "copilot",
+        "label": "docs"
+      }
+    ],
+    "note": "Arrows show how data moves. The LIVE runtime trades on paper, and LLS routes no real orders. The VM1 → algomatrics.in link and the LLS export contract were built and verified end to end before release."
+  },
+  "generated_at": "2026-11-02 21:50"
+}
